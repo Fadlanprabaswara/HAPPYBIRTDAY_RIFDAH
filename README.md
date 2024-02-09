@@ -1,7 +1,5 @@
 ## ✨ Say Happy Birthday with a Webpage
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
-
 ## 🚀 How to Use
 
 1.  **Clone Repository**
